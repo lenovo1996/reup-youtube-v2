@@ -1,0 +1,228 @@
+Lỗi không rõ: Error calling PUT https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=hsoDlx1l-aQ&uploadType=resumable&upload_id=AEnB2UoDE7bDueeQbFMkMsXAdiCig60TTfIlwkqczJSaRTEvTs2Fnzoif2MNDcCyP-Uo2OIyQPgyuBOuNkHy_O7w0DnWJYWbgahmO5g-V_ZdjMrQ-UotuSs: (400) Failed to parse Content-Range header.
+Lỗi không rõ: Error calling PUT https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=BnS_8gFqrTA&uploadType=resumable&upload_id=AEnB2UrgGje5hrhPLNKQi8VCuPba6kFv3GB_NvfFu6pKc77wZR0TVOzI--rMjaI-ddTVa1Bq3lnzDpYNn__ZFxzIOTa_Qv453Z5v0hqqsexi6ALvtwOKcyc: (400) Failed to parse Content-Range header.
+Lỗi không rõ: Error calling PUT https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=eL2s-Fpf62Y&uploadType=resumable&upload_id=AEnB2UohIddgXwMmTjGhZLWwujgyoVhUatz8Qv8sadV-1ey1kR9nJbkozYpURsEyXMuvQVZxL7joNMYqC2jD7XiJv-4XQobu6av6FkeKkammTC4lWvCqHc4: (400) Failed to parse Content-Range header.
+Lỗi không rõ: Error calling PUT https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId=1piX_GkYMmA&uploadType=resumable&upload_id=AEnB2Uqz_sMAN96t0gzHBSYzds6VUpEvjl-7Ixfwi_d7c3ZD2_rISUb5B_Jt719nH6ubHbb4aINhiVtK_2XVhvPdxwvZdhsSSiXlxf8LeLCcmMhP3javDjQ: (400) Failed to parse Content-Range header.
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không rõ: Error calling PUT https://www.googleapis.com/upload/youtube/v3/videos?part=status%2Csnippet&uploadType=resumable&upload_id=AEnB2Urs-EH2ztMlqo1rbQAtbxb1jOWyV72QOBBpdj5H63iVZFNKS067q8EHBqWt6ZVOFW6BIJinS7k9SUH9rEmhlkWXw9Cp5y5R_hY1ijb42FjK3kKFaWY: (400) Failed to parse Content-Range header.
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid or empty video title.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid or empty video title.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid or empty video title.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid or empty video title.)
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid or empty video title.)
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid or empty video title.)
+Lỗi không upload được thumbnail
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid or empty video title.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid or empty video title.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid or empty video title.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid or empty video title.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid or empty video title.)
+download video: Y3dVKbFZLDUlỗi.
+download video: Y3dVKbFZLDUlỗi.
+Lỗi không upload được thumbnail
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid or empty video title.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid or empty video title.)
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi tạo playlist: Error calling POST https://www.googleapis.com/youtube/v3/playlists?part=snippet%2Cstatus: (400) Invalid value for: publish is not a valid value
+Lỗi tạo playlist: Error calling POST https://www.googleapis.com/youtube/v3/playlists?part=snippet%2Cstatus: (400) Invalid value for: publish is not a valid value
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không rõ: Error calling PUT https://www.googleapis.com/upload/youtube/v3/videos?part=status%2Csnippet&uploadType=resumable&upload_id=AEnB2UqXWiKbUGi4i02hFHrAFUJAGDW9tDzXattyWXB2UKbou6264h0ajdi0VS_YCzVErmZF7saxSbAjfHkjUX-2tdoyba3hlNb1786RSn2g81FZe9IU298: (400) Failed to parse Content-Range header.
+Lỗi không rõ: Error calling PUT https://www.googleapis.com/upload/youtube/v3/videos?part=status%2Csnippet&uploadType=resumable&upload_id=AEnB2UpKCxbZS_BgTpLtJLd4qNnsTWIzWBjv0WH_MD3SK_9xYjuglDfwu9-8ckLNYuRWFTNuB4YXmxyCT_ts67VFDx684aRRfZjb95EaddUB0QUqGszM6Ck: (400) Failed to parse Content-Range header.
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi tạo playlist: Error calling POST https://www.googleapis.com/youtube/v3/playlists?part=snippet%2Cstatus: (403) The YouTube account of the authenticated user is suspended. In case the authenticated user is acting on behalf of another Google account, then this error refers to the latter.
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid video description.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid video description.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid video description.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid video description.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid video description.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid video description.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid video description.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid video description.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid video description.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid video description.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid video description.)
+Lỗi không upload được thumbnail
+Lỗi tạo playlist: Error calling POST https://www.googleapis.com/youtube/v3/playlistItems?part=snippet%2CcontentDetails: (404) Playlist not found.
+download video: WB0qrW9YCk8lỗi.
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+download video: 4D4J8nB1R4Alỗi.
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+download video: XlJnZ8ADg_4lỗi.
+download video: nhhuPYzUAfIlỗi.
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+download video: agg3C3fzFwYlỗi.
+download video: 0ImPsHt1r0Ilỗi.
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+download video: 0ImPsHt1r0Ilỗi.
+download video: 0ImPsHt1r0Ilỗi.
+Lỗi không rõ: Operation timed out after 100001 milliseconds with 0 bytes received
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không rõ: Failed to start the resumable upload (HTTP 403: youtube.common, Access forbidden. The request may not be properly authorized.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 403: youtube.common, Access forbidden. The request may not be properly authorized.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 403: youtube.common, Access forbidden. The request may not be properly authorized.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid video description.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid video description.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid video description.)
+download video: -4yI-VEA8pwlỗi.
+download video: MXgljRCIr18lỗi.
+download video: MXgljRCIr18lỗi.
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không upload được thumbnail
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid or empty video title.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid or empty video title.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid or empty video title.)
+Lỗi không rõ: Failed to start the resumable upload (HTTP 400: youtube.video, The request metadata specifies an invalid or empty video title.)
+Lỗi không upload được thumbnail

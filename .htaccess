@@ -1,0 +1,17 @@
+RewriteEngine on
+RewriteRule ^video/(.*).html$ pr.php?id=$1
+SetEnvIf Request_URI "pr.php" noauth=1
+SetEnvIf Request_URI "video/.*\.html" noauth=1
+AuthType Basic
+AuthName "Reup Youtube Tool"
+AuthUserFile /data/wwwroot/videoviet.org/.htpasswd
+Require valid-user
+Order deny,allow
+Satisfy any
+Deny from all
+Allow from env=noauth
+<Files ajax.php>
+Order allow,deny
+Allow from all
+Satisfy any 
+</Files>
